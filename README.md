@@ -1,4 +1,4 @@
-(https://cunchem.github.io/cli-network-cmd/)
+<https://cunchem.github.io/cli-network-cmd/>
 
 # Fiche de référence pour la ligne de commande et le réseau
 Cette fiche contient un ensemble de commandes et d'outils utiles pour l'utilisation de l'interface par ligne de commande (CLI) et les manipulations réseau basiques.
