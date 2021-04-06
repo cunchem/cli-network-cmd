@@ -5,7 +5,7 @@ Cette fiche contient un ensemble de commandes et d'outils utiles pour l'utilisat
 
 # Ligne de commande
 
-|commande|nom|description| example |
+|commande|nom|description| exemple |
 |:---------:|-----------|---------------|------------------|
 |`cd`| change directory| change the current directory | `cd /home/` |
 |`ls`| list  | affiche le contenu d'un repertoire | `ls .`|
@@ -16,7 +16,7 @@ Cette fiche contient un ensemble de commandes et d'outils utiles pour l'utilisat
 # Outils pour le réseau
 ## Outils en ligne de commande pour le réseau
 
-|commande|nom|description| example |
+|commande|nom|description| exemple |
 |:---------:|-----------|---------------------------------------------|------------------|
 |`ping`| ping | envoie d'une requete ICMP echo request à une machine | `ping 127.0.0.1` |
 |`nc`| netcat | creation de connexions TCP ou UDP | `netcat 127.0.0.1 80`|
