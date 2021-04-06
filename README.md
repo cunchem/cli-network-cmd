@@ -1,4 +1,4 @@
-[https://cunchem.github.io/cli-network-cmd/]
+<https://cunchem.github.io/cli-network-cmd/>
 
 # Fiche de référence pour la ligne de commande et le réseau
 Cette fiche contient un ensemble de commandes et d'outils utiles pour l'utilisation de l'interface par ligne de commande (CLI) et les manipulations réseau basiques.
@@ -26,7 +26,7 @@ Ce document est destiné à l'enseignement au département FIMI de l'INSA-Lyon e
 
 
 ## Applications mobiles
-- PingTools  (Android) [https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools]
+- PingTools  (Android) <https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools>
 - iNetTools (iOS) https://apps.apple.com/fr/app/inettools-ping-dns-port-scan/id561659975
 
 ## Outils Web
