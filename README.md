@@ -1,3 +1,5 @@
+https://cunchem.github.io/cli-network-cmd/
+
 # Fiche de référence pour la ligne de commande et le réseau
 Cette fiche contient un ensemble de commandes et d'outils utiles pour l'utilisation de l'interface par ligne de commande (CLI) et les manipulations réseau basiques.
 
@@ -15,7 +17,7 @@ Cette fiche contient un ensemble de commandes et d'outils utiles pour l'utilisat
 ## Outils en ligne de commande pour le réseau
 
 |commande|nom|description| example |
-|:---------:|-----------|---------------|------------------|
+|:---------:|-----------|---------------------------------------------|------------------|
 |`ping`| ping | envoie d'une requete ICMP echo request à une machine | `ping 127.0.0.1` |
 |`nc`| netcat | creation de connexions TCP ou UDP | `netcat 127.0.0.1 80`|
 
