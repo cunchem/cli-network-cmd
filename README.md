@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Fiche de référence pour la ligne de commande et le réseau
+Cette fiche contient un ensemble de commandes et d'outils utiles pour l'utilisation de l'interface par ligne de commande (CLI) et les manipulations réseau basiques.
 
-You can use the [editor on GitHub](https://github.com/cunchem/cli-network-cmd/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Ligne de commande
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+|commande|nom|description| example |
+|:---------:|-----------|---------------|------------------|
+|`cd`| change directory| change the current directory | `cd /home/` |
+|`ls`| list  | affiche le contenu d'un repertoire | `ls .`|
+|`cp`| copy | copie un fichier | `cp source destination` | 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Outils pour le réseau
+## Outils en ligne de commande pour le réseau
+|commande|nom|description| example |
+|:---------:|-----------|---------------|------------------|
+|`ping`| ping | envoie d'une requete ICMP echo request à une machine | `ping 127.0.0.1` |
+|`nc`| netcat | creation de connexions TCP ou UDP | `netcat 127.0.0.1 80`|
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Applications mobiles
+- PingTools  (Android) https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools
+- iNetTools (iOS) https://apps.apple.com/fr/app/inettools-ping-dns-port-scan/id561659975
 
-**Bold** and _Italic_ and `Code` text
+## Outils Web
+- ping.eu https://ping.eu/
+-	PingTool.org https://pingtool.org/
+- GeoTraceroute.com https://geotraceroute.com/
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cunchem/cli-network-cmd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
