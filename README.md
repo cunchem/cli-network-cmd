@@ -26,11 +26,11 @@ Ce document est destiné à l'enseignement au département FIMI de l'INSA-Lyon e
 
 
 ## Applications mobiles
-- PingTools  (Android) (https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools)
-- iNetTools (iOS) https://apps.apple.com/fr/app/inettools-ping-dns-port-scan/id561659975
+- PingTools  (Android) <https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools>
+- iNetTools (iOS) <https://apps.apple.com/fr/app/inettools-ping-dns-port-scan/id561659975>
 
 ## Outils Web
-- ping.eu (https://ping.eu/)
--	PingTool.org https://pingtool.org/
-- GeoTraceroute.com https://geotraceroute.com/
+- ping.eu <https://ping.eu/>
+-	PingTool.org <https://pingtool.org/>
+- GeoTraceroute.com <https://geotraceroute.com/>
 
