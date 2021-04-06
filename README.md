@@ -8,7 +8,7 @@ Ce document est destiné à l'enseignement au département FIMI de l'INSA-Lyon e
 # Ligne de commande
 
 |commande|nom|description| exemple |
-|:---------:|-----------|---------------|------------------|
+|:---------:|-----------|---------------|---------------------------------|
 |`cd`| change directory| change the current directory | `cd /home/` |
 |`ls`| list  | affiche le contenu d'un repertoire | `ls .`|
 |`cp`| copy | copie un fichier | `cp source destination` | 
@@ -19,7 +19,7 @@ Ce document est destiné à l'enseignement au département FIMI de l'INSA-Lyon e
 ## Outils en ligne de commande pour le réseau
 
 |commande|nom|description| exemple |
-|:---------:|-----------|---------------------------------------------|------------------|
+|:---------:|-----------|---------------------------------------------|-----------------------------|
 |`ping`| ping | envoie d'une requete ICMP echo request à une machine | `ping 127.0.0.1` |
 |`nc`| netcat | creation de connexions TCP ou UDP | `netcat 127.0.0.1 80`|
 
