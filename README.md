@@ -1,7 +1,7 @@
 
 <https://cunchem.github.io/cli-network-cmd/>
 
-# Fiche de référence pour la ligne de commande et le réseau
+# Fiche de référence interface ligne de commande et réseau
 Cette fiche contient un ensemble de commandes et d'outils utiles pour l'utilisation de l'interface par ligne de commande (CLI) et les manipulations réseau basiques.
 
 Ce document est destiné à l'enseignement au département FIMI de l'INSA-Lyon et plus particulièrement au P2I-6.
