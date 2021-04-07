@@ -70,7 +70,7 @@ Si je me trouve dans le répertoire `Java/Jeudelavie`, la commande `cd ..` chang
 | ...| | | |
 
 ### Commandes spécifiques à Windows
-
+...
  
 ### `man` a.k.a le manuel 
 La plupart des commandes sont accompagnées d'un *manuel* d'utilisation qui décrit le fonctionnement de la commande ainsi que les différentes options et arguments possibles. Pour consulter le manuel d'une commande, on peut utiliser la commande `man`. Par exemple pour consulter le manuel de la commande `ls`, on peut utiliser `man ls`.
@@ -91,7 +91,7 @@ L'accès à l'ILC se fait via un programme dédié que l'on appelle *terminal*. 
 * Dans le champ *recherche* du menu démarrer, tapez `cmd` puis entré.
 
 ### Ouvrir un terminal sous MacOS
-
+...
 ## Utilisation avancée du terminal (astuces pour gagner du temps)
 
 ### Autocomplétion
@@ -121,7 +121,7 @@ Les touches
 |... | | | |
 
 ## Commandes réseau spécifiques à Windows
-
+...
 
 ## Applications mobiles
 - PingTools  (Android) <https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools>
