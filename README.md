@@ -6,6 +6,18 @@ Cette fiche contient un ensemble de commandes et d'outils utiles pour l'utilisat
 
 Ce document est destiné à l'enseignement au département FIMI de l'INSA-Lyon et plus particulièrement au P2I-6.
 
+- [L'interface ligne de commande (ILC)](#linterface-ligne-de-commande-ilc)
+  - [Qu'est-ce qu'une commande ?](#quest-ce-quune-commande-)
+  - [Arborescence et chemin](#arborescence-et-chemin)
+  - [Commandes populaires](#commandes-populaires)
+  - [Accéder à l'ILC (ouvrir un terminal)](#accder--lilc-ouvrir-un-terminal)
+  - [Utilisation avancée du terminal (astuces pour gagner du temps)](#utilisation-avance-du-terminal-astuces-pour-gagner-du-temps)
+- [Outils pour le réseau](#outils-pour-le-rseau)
+  - [Outils en ligne de commande pour le réseau](#outils-en-ligne-de-commande-pour-le-rseau)
+  - [Applications mobiles](#applications-mobiles)
+  - [Outils Web](#outils-web)
+
+
 # L'interface ligne de commande (ILC)
 L'interface ligne de commande ou *command line interface* (CLI) est un outil qui permet d'interragir avec la machine via des commandes et des messages textuels.
 L'utilisateur transmet des ordres à la machine en entrant des commandes en forme de texte (ex : `ls`) et la machine retourne un résultat sous forme de texte (ex : `image.png rapport.txt program.class`). L'interface en ligne de commande est une alternative aux interfaces graphiques dans lesquels l'utilisateur interragit avec la machine en cliquant avec la souris sur des éléments visuels (ex : icones, menus, boutons, etc.).
@@ -120,7 +132,7 @@ Les touches
 |`dig`| domain information groper | interrogation des serveurs de nom DNS |`dig insa-lyon.fr`|
 |... | | | |
 
-## Commandes réseau spécifiques à Windows
+### Commandes réseau spécifiques à Windows
 ...
 
 ## Applications mobiles
