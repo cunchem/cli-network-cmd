@@ -103,11 +103,12 @@ L'accès à l'ILC se fait via un programme dédié que l'on appelle *terminal*. 
 * Dans le champ *recherche* du menu démarrer, tapez `cmd` puis entré.
 
 ### Ouvrir un terminal sous MacOS
-...
+* Dans spotlight (`CMD+espace`), tapez `terminal`
+
 ## Utilisation avancée du terminal (astuces pour gagner du temps)
 
 ### Autocomplétion
-La touche Tab ↹ permet de compléter automatiquement une commande. Cela évite de tapper des commandes parfois très longues et donc de gagner du temps.
+La touche `Tab ↹` permet de compléter automatiquement une commande. Cela évite de tapper des commandes parfois très longues et donc de gagner du temps.
 
 Exemple : Dans le repertoire courant, il y a un répertoire nommé `Directory` dans lequel l'utilisateur souhaite passer grâce à la commande `cd Directory`.
 Au lieu d'entrer la commande complète, l'utilisateur va faire appel à l'autocomplétion en entrant le début de la commande `cd D` puis en appuyant sur la touche Tab ↹ qui complètera automatiquement la fin de la commande pour obtenir `cd Directory`. L'autocomplétion ne lit pas dans les pensées de l'utilisateur, mais devine la commande de l'utilisateur sur la base de ce qui a déjà été entré (`cd D`) et du contexte (il existe un seul répertoire commencant par `D` et c'est `Directory`).
@@ -119,7 +120,7 @@ Exemple : l'utilisateur vient d'executer une commande longue `cp -rf file Direct
 Les touches 
 
 
-# Outils pour le réseau
+# Outils
 ## Outils en ligne de commande pour le réseau
 
 |commande|nom|description| exemple |
@@ -133,9 +134,11 @@ Les touches
 |... | | | |
 
 ### Commandes réseau spécifiques à Windows
-...
+- netcat : <https://joncraton.org/blog/46/netcat-for-windows/>
+- git-Bash : <https://gitforwindows.org/>
+- network stuff : <http://jacquelin.potier.free.fr/networkstuff/>
 
-## Applications mobiles
+## Applications mobiles pour le réseau
 - PingTools  (Android) <https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools>
 - iNetTools (iOS) <https://apps.apple.com/fr/app/inettools-ping-dns-port-scan/id561659975>
 
@@ -143,3 +146,10 @@ Les touches
 - ping.eu <https://ping.eu/>
 -	PingTool.org <https://pingtool.org/>
 - GeoTraceroute.com <https://geotraceroute.com/>
+
+## Autres commandes
+|Commande|Description| Exemple |
+|:---------:|---------------------------------------------|-----------------------------|
+|`java`| Exécute un programme Java présent dans le dossier courant  | `java MaClasse` |
+|`javac`| Compile un programme Javatraceroute présent dans le dossier courant | `javac MaClasse.java`|
+
